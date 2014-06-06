@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/additiveinverse/grunt-presentation.git"
+    "url": "git://github.com/additiveinverse/gruntjs-presentation.git"
   },
   "bugs": {
     "url": "https://github.com/additiveinverse/gruntjs-presentation/issues"

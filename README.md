@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PETSMT-gruntjs
 
 The best project ever.
@@ -25,3 +26,7 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2014 Richard Bailey  
 Licensed under the MIT license.
+=======
+gruntjs-presentation
+====================
+>>>>>>> 6de5d1dada246190ad10ac29af6e6de8625c1039
