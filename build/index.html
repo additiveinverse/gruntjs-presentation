@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js - The HTML Presentation Framework</title>
+
+		<meta name="description" content="a broad stroke overview of how the petsmart team found ways to make things suck less">
+		<meta name="author" content="Richard Bailey">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/gr.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+            <div class="slides"><section data-background-image="app/sunburst1.svg"><h1 class="main-title"> <span class="title-1">Petsmart </span>+ <span class="title-2">Gruntjs</span></h1><p class="fragment">( only if want to make work suck less )</p><h2>Because... the future!</h2></section><section data-background-color="rgb(21,19,15)"><h2>What is Gruntjs?</h2><p>the boring explanation:		</p><img src="app/grunt-logo.png" class="logo-image"/><div class="fragment"><p>A task automation system that runs in node</p></div><div class="fragment"><p>Written in JS, configured in json</p></div></section><section data-background-color="rgb(21,19,15)"><h3>The NOT boring explanation:</h3></section><section data-background-color="rgb(21,19,15)" data-background-transition="fade" data-transition="fade" data-background="app/ts2.png"><h1><br/><br/><br/><br/>How can I assist you?</h1></section><section data-background-color="rgb(21,19,15)"><h2>The Good</h2><h3>Development and Maintenance suck less</h3><p data-fragment-index="1" class="fragment">Let's you focus on the task of development, not tedium (YUK!)</p><p data-fragment-index="2" class="fragment">Dependency management is not a bad thing to have</p><p data-fragment-index="3" class="fragment">Makes the machines do the work ( so we can sleep more )</p><p data-fragment-index="4" class="fragment">Allows us to pick and choose tools<ul data-fragment-index="5" class="small fragment"><li class="sub">Want to use coffeescript instead of js?</li><li class="sub">Want to use sass instead of less or (gasp) stylus?</li><li class="sub">Need to use jade instead of markdown or haml?</li></ul></p><div data-fragment-index="6" class="fragment zoom-in"><img src="app/ts3.png" class="t2"/></div></section><section data-background-color="rgb(21,19,15)"><h2>The Bad</h2><p> <strong>UGH! </strong><em>Another </em><web>thing I have to learn and figure out how to use?</web><img src="app/ugh-face1.png"/></p><p data-fragment-index="1" class="small fragment">but seriously if that's your reason...</p></section><section data-background-color="#D11C23" data-background-image="app/sunburst2.svg"><h1>PETSMT</h1><img src="app/thechairman.png"/><p> <small>( Case Studies please the Chairman greatly )</small></p></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><section><h2>We used it for</h2></section><section><p>Preparing Assests for production</p><p>( Rendering LESS to CSS + image minification )</p><pre><code data-trim="data-trim">grunt.registerTask('dev', [ 'less:dev', 'imagemin' ]);</code></pre></section><section><p>Faking the minified file bundles	</p><p>( using Charles to map to a different folder )</p><pre><code data-trim="data-trim">grunt.registerTask('test', [ 'watch:uat' ]);
+</code></pre></section><section><p>Automated code reviews</p><pre><code data-trim="data-trim">grunt.registerTask('review', [ 'csscss', 'lesslint', 'jshint' ]);
+</code></pre></section></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><h2>What we learned</h2></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><h3>Projects that dont use automation are the dumbs</h3><img src="app/brains.jpg"/></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><h3>A little thoughtful scaffolding goes a long way</h3><img src="app/minecraft.jpg"/></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><h3>Smarter people have already solved most of the problems</h3><img src="app/wheels.jpg"/></section><section data-background-color="#D11C23" data-background-image="app/red-curtains.jpg"><h3>Grunt turns us into grumpy teenagers</h3><img src="app/teenagers.jpg"/></section><section data-background-image="app/the_future.jpg"><h1 class="the-future"><br/><br/>To the mutha-effin' future!</h1></section><section data-background-image="app/Tron-Uprising.jpg"><section class="the-future"><h2>SVG icons</h2><ul><li>Auto sprite generation</li><li>Auto icon fonts</li><li>Automagical pngs as fall backs</li></ul></section><section class="the-future"><h2>Grid replacement with less/sass/stylus mixins</h2><pre><code>.grid-loop (@i) when (@i > 0) {
+ .gd-grid-@{i} {
+  .column(@i);
+ }
+ 
+ .grid-loop(@i - 1);
+}
+.column( @x, @columns: @columns ) {
+ width: @total-width*(
+  ((( @gutter-width+@column-width) * @x ) - @gutter-width ) / @gs-width);
+}
+
+
+</code></pre></section><section class="the-future"><h2>Bower for specific dependencies</h2><ul><li>Normalize.less, Semantic.gs, Less-mixins</li><li>Jquery 2+, plugins, etc.</li></ul></section><section class="the-future"><h2>Living style guide Generation</h2><ul><li>Based on comments in css and markup templates</li><li>Could then be sent via api direct to confluence</li></ul></section><section class="the-future"><h2>Sourcemap ALL THE THINGS!</h2><ul><li>Eliminates the need to run the UAT watch task + Charles</li><li>Better remote debugging</li></ul></section><section class="the-future"><h2>Auto reporting cartridge contents </h2><ul><li>find and contain lists of overrides or changesets as json</li><li>send capture manifests via api to confluence</li></ul></section><section class="the-future"><h2>Grunt-init templates: the new hotness</h2><p>As Opinionated Presentation Layer Lead I want to:</p><ul><li class="fragment">Predefine a suite of build, test and deploy tools</li><li class="fragment">Be guided by prompts to set dependencies and create package.json and initial gruntfile <small> <em>( because typing is dumb )</em></small></li><li class="fragment">Be empowered to make choices in the tools we use</li></ul></section></section><section data-background-image="app/show.jpg"><h1>The End</h1><hr/><h3 class="the-future">questions?</h3></section>    </div>
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+
+<script>
+
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        theme: Reveal.getQueryHash().theme || "gr", // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || "linear" || 'default', // default/cube/page/concave/zoom/linear/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+            { src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+            { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+            { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+            // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+        ]
+    });
+
+</script>
+</body>
+</html>
+        

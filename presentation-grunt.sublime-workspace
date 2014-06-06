@@ -1,0 +1,1320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data-back",
+				"data-background-image"
+			],
+			[
+				"data-",
+				"data-transition"
+			],
+			[
+				"data",
+				"data-fragment-index"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"proem",
+				"proemland"
+			],
+			[
+				"nav",
+				"navName"
+			],
+			[
+				"F",
+				"Fnames"
+			],
+			[
+				"w",
+				"winterPath"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"app",
+				"appSRC"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"in",
+				"_inject"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"musi",
+				"music-photo"
+			],
+			[
+				"music",
+				"music-grid-active"
+			],
+			[
+				"prod",
+				"prod-grid-active"
+			],
+			[
+				"pth",
+				"pathJS"
+			],
+			[
+				"path",
+				"pathJS"
+			],
+			[
+				"tr",
+				"transform-origin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"displa",
+				"display-inbl"
+			],
+			[
+				"bower",
+				"bowerPath"
+			],
+			[
+				"pas",
+				"pathCSS"
+			],
+			[
+				"pat",
+				"pathLESS"
+			],
+			[
+				"c",
+				"cache"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"dat",
+				"dataQuery"
+			],
+			[
+				"pa",
+				"pathJS"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"file",
+				"filelist"
+			],
+			[
+				"route",
+				"route	\\$route"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"loca",
+				"location	\\$location"
+			],
+			[
+				"single",
+				"SingleCtrl"
+			],
+			[
+				"gr",
+				"GridCtrl"
+			],
+			[
+				"load",
+				"loadr"
+			],
+			[
+				"itm-",
+				"itm-social"
+			],
+			[
+				"togg",
+				"toggle"
+			],
+			[
+				"class",
+				"classy"
+			],
+			[
+				"default",
+				"defaultGridTemplate"
+			],
+			[
+				"el",
+				"elemClas"
+			],
+			[
+				"ar",
+				"arcls"
+			],
+			[
+				"js",
+				"js_url"
+			],
+			[
+				"grid",
+				"gridInit"
+			],
+			[
+				"web",
+				"WEBROOT_DIR"
+			],
+			[
+				"APP",
+				"APP_DIR"
+			],
+			[
+				"the",
+				"theData"
+			],
+			[
+				"pr",
+				"primaryKeys"
+			],
+			[
+				"proj",
+				"projectListCtlr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"entity",
+				"entity_type"
+			],
+			[
+				"btn-",
+				"btn-grid"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"fin",
+				"finalString"
+			],
+			[
+				"TXT",
+				"TXTactive"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"active",
+				"activeClass"
+			],
+			[
+				"webkit-",
+				"webkit-box-flex"
+			],
+			[
+				"gstc",
+				"gst-cspot"
+			],
+			[
+				"note",
+				"noteMessage"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Username",
+				"username"
+			],
+			[
+				"aut",
+				"authConf"
+			],
+			[
+				"auth",
+				"Auth"
+			],
+			[
+				"overlay",
+				"overlay-active"
+			],
+			[
+				"pref",
+				"prefList"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"submi",
+				"frmSubmit"
+			],
+			[
+				"Toggle",
+				"toggleClass"
+			],
+			[
+				"generic",
+				"genericToggle"
+			],
+			[
+				"JS",
+				"JS_URL"
+			],
+			[
+				"W",
+				"WEBROOT_DIR"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"title",
+				"title_for_layout"
+			],
+			[
+				"random",
+				"randomTitle"
+			],
+			[
+				"form",
+				"formDefaults"
+			],
+			[
+				"H",
+				"Html"
+			],
+			[
+				"css",
+				"csslist"
+			],
+			[
+				"ws-cate",
+				"ws-category-list"
+			],
+			[
+				"ws-category-list",
+				"ws-category-list-item"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ws-common",
+				"ws-common-list-item"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"men",
+				"menunav_def"
+			],
+			[
+				"user",
+				"user-preferences"
+			],
+			[
+				"pre",
+				"prefList"
+			],
+			[
+				"bkg",
+				"bkgd-texture"
+			],
+			[
+				"fon",
+				"fontSample"
+			],
+			[
+				"CSPL",
+				"CSPL_setup"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"p",
+				"production"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"li",
+				"LIVEURL"
+			],
+			[
+				"restura",
+				"restaurant-list"
+			],
+			[
+				"delet",
+				"deleteId"
+			],
+			[
+				"txt",
+				"txtarea"
+			],
+			[
+				"res",
+				"restaurant-list"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"add",
+				"add-restaurant-name"
+			],
+			[
+				"A",
+				"APP_DIR"
+			],
+			[
+				"tri",
+				"triggr"
+			],
+			[
+				"trig",
+				"triggerParent"
+			],
+			[
+				"comment",
+				"commentVal"
+			],
+			[
+				"wrp",
+				"wrp"
+			],
+			[
+				"init",
+				"init"
+			],
+			[
+				"_",
+				"_init"
+			],
+			[
+				"comm",
+				"commentElem"
+			],
+			[
+				"comme",
+				"commentNumElem"
+			],
+			[
+				"hol",
+				"holder1"
+			],
+			[
+				"kit",
+				"kitchenSinkElem"
+			],
+			[
+				"holder",
+				"holder2"
+			],
+			[
+				"param",
+				"paramString"
+			],
+			[
+				"current",
+				"currentPane"
+			],
+			[
+				"ease",
+				"easeInOutQuint"
+			],
+			[
+				"curr",
+				"currentPane"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"ovr",
+				"ovr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "slides/slides.jade",
+			"settings":
+			{
+				"buffer_size": 4759,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/UwAmp/www/presentation/slides/slides.jade",
+			"settings":
+			{
+				"buffer_size": 4924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 3585,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/UwAmp/www/presentation/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 3122,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"les",
+				"Set Syntax: LESS"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"",
+				"Bower: Install"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"build",
+				"Build: Minify"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"tort",
+				"Preferences: Tortoise Key Bindings – Default"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/gr.css",
+		"/C/UwAmp/www/presentation-grunt/Gruntfile.js",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/moon.css",
+		"/C/UwAmp/www/presentation-grunt/slides/slides.jade",
+		"/C/UwAmp/www/presentation-grunt/deploy/app/ts2.png",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/default.css",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/reveal.css",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/README.md",
+		"/C/UwAmp/www/csspill-wp/functions.php",
+		"/C/UwAmp/www/presentation-grunt/package.json",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/template/mixins.scss",
+		"/C/UwAmp/www/presentation-grunt/deploy/css/theme/template/theme.scss",
+		"/C/UwAmp/www/presentation-grunt/deploy/index.html",
+		"/C/Users/baileyr/.grunt-init/README.md",
+		"/C/UwAmp/www/presentation-grunt/Gruntfile.coffee",
+		"/C/UwAmp/www/cake/app-hs/webroot/js/global.js",
+		"/C/UwAmp/www/HS-prod/_lib/js/global.js",
+		"/C/UwAmp/www/resume/rb.html",
+		"/C/UwAmp/www/txp/_lib/node_modules/grunt-angular-templates/LICENSE",
+		"/C/UwAmp/www/txp/_lib/node_modules/grunt-contrib-less/docs/less-examples.md",
+		"/C/UwAmp/www/pland/app_modules/angularjs-bower/i18n/angular-locale_en-sg.js",
+		"/C/UwAmp/www/txp/_lib/node_modules/grunt-contrib-less/tasks/less.js",
+		"/C/UwAmp/www/pland/contents/css/global.css",
+		"/C/UwAmp/www/placeguntohead/.git/config",
+		"/C/UwAmp/www/pland/Gruntfile.js",
+		"/C/UwAmp/www/pland/package.json",
+		"/C/UwAmp/www/csspill-wp/inc/theme_widgets.php",
+		"/C/UwAmp/www/csspill-wp/inc/social.php",
+		"/C/UwAmp/www/normalize.less/.gitignore",
+		"/C/UwAmp/www/normalize.less/normalize.less",
+		"/C/UwAmp/www/pland/templates/layout.jade",
+		"/C/UwAmp/www/pland/.gitignore",
+		"/C/UwAmp/www/placeguntohead/package.json",
+		"/C/UwAmp/www/pland/app/less/base-type.less",
+		"/C/UwAmp/www/pland/app/partials/itm-prdgrid.html",
+		"/C/UwAmp/www/pland/templates/nav.jade",
+		"/C/UwAmp/www/pland/app/less/_variables.less",
+		"/C/UwAmp/www/pland/app/prm.controllers.js",
+		"/C/UwAmp/www/pland/app/prm.app.js",
+		"/C/UwAmp/www/pland/bower.json",
+		"/C/UwAmp/www/pland/build/js/discog.js",
+		"/C/UwAmp/www/txp/_lib/pland.sublime-project",
+		"/C/UwAmp/www/testproject/Gruntfile.coffee",
+		"/C/UwAmp/www/pland/config.json",
+		"/C/UwAmp/www/pland/app/less/global.less",
+		"/C/UwAmp/www/pland/templates/index.jade",
+		"/C/UwAmp/www/pland/app/less/base-frm-err.less",
+		"/C/Users/baileyr/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/mongodb/mongod.cfg",
+		"/C/mongodb/log/mongo.log.2014-03-28T17-34-00",
+		"/C/UwAmp/www/posh-git/profile.example.ps1",
+		"/C/UwAmp/www/pland/app/prm.directives.js",
+		"/C/Users/baileyr/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/UwAmp/www/pland/app/prm.tpl.js",
+		"/C/UwAmp/www/pland/contents/articles/studio/index.md",
+		"/C/UwAmp/www/pland/templates/article.jade",
+		"/C/UwAmp/www/pland/readme.md",
+		"/C/UwAmp/www/normalize.less/.gitattributes",
+		"/C/UwAmp/www/pland/templates/archive.jade",
+		"/C/UwAmp/www/pland/contents/articles/press-kit/index.md",
+		"/C/UwAmp/www/pland/contents/articles/another-test/index.md",
+		"/C/UwAmp/www/pland/contents/articles/studio.md",
+		"/C/UwAmp/www/pland/contents/articles/bamboo-cutter/index.md",
+		"/C/UwAmp/www/pland/templates/author.jade",
+		"/C/UwAmp/www/pland/contents/author.json",
+		"/C/UwAmp/www/pland/contents/authors.json",
+		"/C/UwAmp/www/pland/templates/feed.jade",
+		"/C/UwAmp/www/pland2014/templates/layout.jade",
+		"/C/UwAmp/www/pland2014/config.json",
+		"/C/UwAmp/www/pland2014/package.json",
+		"/C/UwAmp/www/pland2014/readme.md",
+		"/C/UwAmp/www/pland2014/templates/nav.jade",
+		"/C/UwAmp/www/proemland/templates/index.jade",
+		"/C/UwAmp/www/proemland/config.json",
+		"/C/UwAmp/www/proemland/templates/nav.jade",
+		"/C/UwAmp/www/testbed/config.json",
+		"/C/UwAmp/www/testbed/contents/styles/main.less",
+		"/C/UwAmp/www/testing/templates/layout.jade",
+		"/C/UwAmp/www/testing/templates/nav.jade",
+		"/C/UwAmp/www/testing/templates/index.jade",
+		"/C/UwAmp/www/testing/contents/index.md",
+		"/C/UwAmp/www/proemland/templates/layout.jade",
+		"/C/UwAmp/www/proemland/contents/authors/proem.json",
+		"/C/UwAmp/www/proemland/templates/article.jade",
+		"/C/UwAmp/www/proemland/templates/feed.jade",
+		"/C/UwAmp/www/proemland/contents/archive.json",
+		"/C/UwAmp/www/proemland/templates/archive.jade",
+		"/C/UwAmp/www/proemland/app/prm.controllers.js",
+		"/C/UwAmp/www/proemland/app/prm.tpl.js",
+		"/C/UwAmp/www/proemland/app/prm.app.js",
+		"/C/UwAmp/www/proemland/templates/author.jade",
+		"/C/UwAmp/www/proemland/bower.json",
+		"/C/UwAmp/www/proemland/Gruntfile.js",
+		"/C/UwAmp/www/proemland/contents/articles/contact/index.md",
+		"/C/UwAmp/www/proemland/contents/articles/press-kit/index.md",
+		"/C/UwAmp/www/proemland/contents/articles/studio/index.md",
+		"/C/UwAmp/www/proemland/contents/walls.json",
+		"/C/UwAmp/www/proemland/app/less/base-frm-err.less",
+		"/C/UwAmp/www/proemland/.bowerrc",
+		"/C/UwAmp/www/proemland/app/less/_mixins.less",
+		"/C/UwAmp/www/proemland/contents/json/discog.json",
+		"/C/UwAmp/www/proemland/contents/json/docs.json",
+		"/C/UwAmp/www/proemland/package.json",
+		"/C/UwAmp/www/jquery/dist/jquery.js",
+		"/C/UwAmp/www/proemland/app_modules/zepto-replace-jquery/zepto-replace-jquery.js",
+		"/C/UwAmp/www/txp/_lib/package.json",
+		"/C/UwAmp/www/proemland/contents/authors/the-wintersmith.json",
+		"/C/UwAmp/www/txp/_lib/src/app/less/global.less",
+		"/C/UwAmp/www/txp/_lib/src/app/less/media.less",
+		"/C/UwAmp/www/proemland/contents/articles/markdown-syntax/index.md",
+		"/C/UwAmp/www/proemland/contents/articles/another-test/index.jade",
+		"/C/UwAmp/www/proemland/contents/_lib/js/docs.json",
+		"/C/UwAmp/www/proemland/npm-debug.log",
+		"/C/UwAmp/www/txp/_lib/src/app/partials/itm-walls.html",
+		"/C/UwAmp/www/txp/_lib/src/app/prm.controllers.js",
+		"/C/UwAmp/www/txp/_lib/src/app/less/_variables.less",
+		"/C/UwAmp/www/txp/_lib/src/app/less/base-type.less",
+		"/C/UwAmp/www/txp/_lib/src/app/less/base-frm-err.less",
+		"/C/UwAmp/www/txp/_lib/src/app/less/_grid.less",
+		"/C/UwAmp/www/txp/_lib/src/app/partials/itm-prdgrid.html",
+		"/C/UwAmp/www/txp/_lib/js/docs.json",
+		"/C/UwAmp/www/txp/_lib/js/disc.json",
+		"/C/UwAmp/www/txp/_lib/js/discog.json",
+		"/C/UwAmp/www/txp/_lib/js/prmland.json",
+		"/C/UwAmp/www/txp/_lib/js/walls.json",
+		"/C/UwAmp/www/txp/_lib/src/app/prm.tpl.js",
+		"/C/UwAmp/www/txp/_lib/src/app/prm.directives.js",
+		"/C/Users/baileyr/Desktop/v11_launch/pet/production/PETSMT-3359/share/system/cartridges/gsi_pet_na_sf/release/static/default/js/overrides.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\UwAmp\\www\\HS-cake\\app\\View\\Errors",
+			"C:\\UwAmp\\www\\cake\\scc\\Controller",
+			"C:\\UwAmp\\www\\HS-cake\\app\\View\\Errors",
+			"C:\\Users\\baileyr\\Desktop\\Generico\\cartridges\\gsi_gst_na_us_sf\\trunk\\staticfiles\\cartridge\\static\\default\\css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"highlight",
+			"I",
+			"nfo",
+			"lst",
+			"index",
+			"locals.name",
+			"\"",
+			"locals.name",
+			"\"",
+			"name",
+			"add",
+			"http://localhost/txp",
+			"Wintersmith",
+			"@base-pad-horizontal",
+			"@base-pad-vertical",
+			"integral",
+			"half",
+			"engra",
+			"half",
+			"please ",
+			"please don't",
+			"please don't tell me thats your remix",
+			"breaks your",
+			"hybrid",
+			"infiltrate 5.0",
+			"mafia rip bin",
+			"md8",
+			"darker still",
+			"darkerstill",
+			"redevelopment",
+			"\"content\": \"\"",
+			"\"Body\": \"\"",
+			"\"Body\": ",
+			"([0-9]+\\. )",
+			"#",
+			"keef baker",
+			"md2",
+			"live-sets",
+			"live",
+			"mix",
+			"nuero",
+			"nuer",
+			"socially",
+			"neuro",
+			"among",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"\"Body\": \"Proem, otherwise known as Richard Bailey, is a 34 year old web designer living in Houston, Texas. He has been releasing music since 1999 on labels like merck, n5MD, and Hydrant. He started experimenting with electronic devices at the age of 19, using three thrift store turntables, some tape decks, a few garage sale Casio SK-5s, and some circuit bent bargain bin keyboards. He has released albums, EPs and remixes on labels across the electronic scene....\",",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"http://localhost/txp/",
+			"social",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"songs",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"conven",
+			"conv",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"livemd",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"soci",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"among",
+			"\"Body\":\\s\"([^\"]*)\",",
+			"\"Body\":\\s\"(.*?)\" ",
+			"\"Body\": \"(.*?)\" ",
+			"\"Body\": \"(.*?)\", ",
+			"(?:\"Body\":) \"(.*?)\" ",
+			"(?:\"Body\":)  ",
+			"(?:\"Body\":)\\s ",
+			"(?:\"Body\":) ",
+			"(?:\"Body\": ) ",
+			"(?:\"Body\":)",
+			"\"Body[\"^//]:\\s(?:[\"^//].*)\",",
+			"[\"Body\": ]*(\"*#+[A-Z-a-z-0-9 ()]*)",
+			"(#+[A-Z-a-z-0-9 ()]*)",
+			"(?:\"[a-z]+\":\\s\")(#+[A-Z-a-z-0-9 ()]*)",
+			"(\\d[0-9][:])+([0-9][0-9])",
+			"0deg",
+			"blur(5px)",
+			"mag",
+			");\n",
+			"body",
+			"data",
+			"grey",
+			"animate",
+			"@line-height",
+			"./_lib/",
+			"./fonts",
+			"@margin",
+			".col",
+			"ico",
+			"gray",
+			";\n",
+			"links",
+			"@line-height-computed",
+			"/less/",
+			"ostrich-regular-webfont",
+			"ostrich-light-webfont",
+			"OstrichSans",
+			" { content: ",
+			"'}",
+			": : before{content",
+			".typcn-",
+			":",
+			"\"",
+			"path/to/",
+			"0",
+			"routePro",
+			"route",
+			"some",
+			"/fonts/",
+			"pr.",
+			"pr",
+			"ops",
+			"kbansal@ebay.com",
+			"wishlist",
+			"/**\n *",
+			"\n",
+			"}\n",
+			"/* ==========================================================================",
+			"		\n",
+			"filelist",
+			"assetlist",
+			" :",
+			" : ",
+			"ostrich-",
+			"'ostrich",
+			"ostrich",
+			"1.5em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"info",
+			"list",
+			"i",
+			"locals.title",
+			"'",
+			"locals.na",
+			"'",
+			"",
+			"@base-margin-half",
+			"@base-margin",
+			"\"Body\": \"\"",
+			"\"Body\": [\"",
+			"\"Body\": [",
+			"\"",
+			"@line-height-calc",
+			"@orange",
+			"@import '_variables';",
+			"class=\"val prod-nfo-val\"",
+			"<dt class=\"type prod-nfo-typ\">",
+			"@",
+			"$",
+			"role",
+			"}",
+			"#",
+			" ",
+			"",
+			"<dt class=\"val\">",
+			"<dt class=\"nfo\">",
+			"$type",
+			"type",
+			"$type",
+			"<h6 class=\"ttl\">",
+			"<h5 class=\"ttl\">",
+			"<h4 class=\"ttl\">",
+			"<h3 class=\"ttl\">",
+			"<h2 class=\"ttl\">",
+			"<h1 class=\"ttl\">",
+			"<label class=\"lbl\">",
+			"<li class=\"lst\">",
+			"<h2 class=\"ttl\">",
+			"<h1 class=\"ttl\">",
+			"url('../ff/",
+			".btn-group",
+			"<div class=\"fault err-stack\">",
+			"lst-slices",
+			"/ff/n",
+			"url('_lib/ff",
+			"",
+			".fld-",
+			".gd-suffix-",
+			".gd-prefix-",
+			".gd-pull-",
+			".gd-push-",
+			".gd-suffix-",
+			".gd-prefix-",
+			"}",
+			"",
+			".gd-grid-",
+			".gd-grid-.grid_\n<dl class=\"def error\">",
+			".gd-grid-\n<dl class=\"def error\">",
+			" \n<dl class=\"def error\">",
+			"\n<dl class=\"def error\">",
+			"<div class=\"err\">\n<dl class=\"def error\">",
+			"<div class=\"err\">\n<dt class=\"itm notice err-notice\">",
+			"<div class=\"err\">\n</dt>",
+			"<div class=\"err\">\n<h2 class=\"ttl ttl-err\">",
+			"</dt>",
+			"<dt class=\"itm notice\">",
+			"<dl class=\"def error\">",
+			"-current",
+			" .ws-step-number",
+			"<a class=\"ws-step-name ws-link\"",
+			"<span class=\"ws-step-name ws-link-inactive",
+			"",
+			".gst-footer",
+			"",
+			"<label class=\"ws-label\"",
+			".gst-utility",
+			".gd-suffix-",
+			".gd-prefix-",
+			"}",
+			"",
+			"gd-pull-",
+			".gd-push-",
+			".gd-grid-",
+			"</span>",
+			"<span>",
+			"",
+			"../fonts",
+			"",
+			"ff/",
+			"'span.count-files'",
+			"obx."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "slides/slides.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/UwAmp/www/presentation/slides/slides.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3829,
+								3829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2740.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 415.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/UwAmp/www/presentation/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 505.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "presentation-grunt.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vari",
+				"node_modules\\grunt-contrib-less\\test\\fixtures\\include\\variables.less"
+			],
+			[
+				"mix",
+				"node_modules\\grunt-contrib-less\\node_modules\\less\\test\\less\\mixins.less"
+			],
+			[
+				"prm.d",
+				"_lib\\js\\prm.directives.js"
+			],
+			[
+				"base-f",
+				"_lib\\src\\less\\base-frm-err.less"
+			],
+			[
+				"glo",
+				"_lib\\src\\less\\global.less"
+			],
+			[
+				"",
+				"_lib\\Gruntfile.js"
+			],
+			[
+				"packa",
+				"_lib\\package.json"
+			],
+			[
+				"variable",
+				"_lib\\static\\bootstrap-variables\\src\\variables.less"
+			],
+			[
+				"grunt",
+				"_lib\\Gruntfile.js"
+			],
+			[
+				"itm",
+				"_lib\\partials\\itm-prdgrid.html"
+			],
+			[
+				"con",
+				"_lib\\js\\controllers.js"
+			],
+			[
+				"_mi",
+				"_lib\\css\\less\\_mixins.less"
+			],
+			[
+				"direc",
+				"_lib\\js\\directives.js"
+			],
+			[
+				"js/",
+				"_lib\\js\\controllers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\UwAmp\\www\\placeguntohead\\placeguntohead.sublime-project"
+			],
+			[
+				"est",
+				"/C/Users/baileyr/Desktop/Dropbox/WS tool kit - WS documentation/estimation tool/gsiest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 624.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

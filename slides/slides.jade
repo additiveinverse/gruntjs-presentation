@@ -1,0 +1,163 @@
+section( data-background-image="app/sunburst1.svg" )
+	h1.main-title 
+		span.title-1 Petsmart 
+		+ 
+		span.title-2 Gruntjs
+	p.fragment ( only if want to make work suck less )
+	h2 Because... the future!
+
+section( data-background-color="rgb(21,19,15)" )
+	h2 What is Gruntjs?
+	p the boring explanation:		
+	img.logo-image(src='app/grunt-logo.png')
+	.fragment
+		p A task automation system that runs in node
+	.fragment
+		p Written in JS, configured in json
+
+section( data-background-color="rgb(21,19,15)" )
+	h3 The NOT boring explanation:
+
+section( data-background-color="rgb(21,19,15)", data-background-transition='fade', data-transition='fade', data-background='app/ts2.png' )
+
+	h1 <br/><br/><br/><br/>How can I assist you?
+
+section( data-background-color="rgb(21,19,15)" )
+	h2 The Good
+	h3 Development and Maintenance suck less
+	p.fragment( data-fragment-index='1' ) Let's you focus on the task of development, not tedium (YUK!)
+	p.fragment( data-fragment-index='2' ) Dependency management is not a bad thing to have
+	p.fragment( data-fragment-index='3' ) Makes the machines do the work ( so we can sleep more )
+	p.fragment( data-fragment-index='4' ) Allows us to pick and choose tools
+		ul.small.fragment( data-fragment-index='5' )
+			li.sub Want to use coffeescript instead of js?
+			li.sub Want to use sass instead of less or (gasp) stylus?
+			li.sub Need to use jade instead of markdown or haml?
+	.fragment.zoom-in( data-fragment-index='6')
+		img.t2( src="app/ts3.png")
+
+section( data-background-color="rgb(21,19,15)")
+	h2 The Bad
+	p 
+		strong UGH! 
+		em Another 
+		web thing I have to learn and figure out how to use?
+	
+		img( src='app/ugh-face1.png' )		
+	p.small.fragment( data-fragment-index='1' ) but seriously if that's your reason...
+
+section( data-background-color="#D11C23", data-background-image="app/sunburst2.svg")
+	h1 PETSMT
+	img( src='app/thechairman.png' )
+	p 
+		small ( Case Studies please the Chairman greatly )
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	section
+		h2 We used it for
+	section
+		p Preparing Assests for production
+		p ( Rendering LESS to CSS + image minification )
+		pre
+			code(data-trim).
+				grunt.registerTask('dev', [ 'less:dev', 'imagemin' ]);
+	section
+		p Faking the minified file bundles	
+		p ( using Charles to map to a different folder )
+		pre
+			code(data-trim).
+				grunt.registerTask('test', [ 'watch:uat' ]);
+
+	section
+		p Automated code reviews
+		pre
+			code(data-trim).
+				grunt.registerTask('review', [ 'csscss', 'lesslint', 'jshint' ]);
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	h2 What we learned
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	h3 Projects that dont use automation are the dumbs
+	img( src='app/brains.jpg' )
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	h3 A little thoughtful scaffolding goes a long way
+	img( src='app/minecraft.jpg' )	
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	h3 Smarter people have already solved most of the problems
+	img( src='app/wheels.jpg' )
+
+section( data-background-color="#D11C23", data-background-image="app/red-curtains.jpg" )
+	h3 Grunt turns us into grumpy teenagers
+	img( src='app/teenagers.jpg' )
+
+section( data-background-image="app/the_future.jpg" )
+	h1.the-future <br/><br/>To the mutha-effin' future!
+
+section( data-background-image="app/Tron-Uprising.jpg" )
+	section.the-future
+		h2 SVG icons
+		ul
+			li Auto sprite generation
+			li Auto icon fonts
+			li Automagical pngs as fall backs
+
+	section.the-future
+		h2 Grid replacement with less/sass/stylus mixins
+		pre
+			code.
+				.grid-loop (@i) when (@i > 0) {
+					.gd-grid-@{i} {
+						.column(@i);
+					}
+
+					.grid-loop(@i - 1);
+				}
+				.column( @x, @columns: @columns ) {
+					width: @total-width*(
+						((( @gutter-width+@column-width) * @x ) - @gutter-width ) / @gs-width);
+				}
+
+
+
+	section.the-future
+		h2 Bower for specific dependencies
+		ul
+			li Normalize.less, Semantic.gs, Less-mixins
+			li Jquery 2+, plugins, etc.
+
+	section.the-future
+		h2 Living style guide Generation
+		ul
+			li Based on comments in css and markup templates
+			li Could then be sent via api direct to confluence
+	
+	section.the-future
+		h2 Sourcemap ALL THE THINGS!
+		ul
+			li Eliminates the need to run the UAT watch task + Charles
+			li Better remote debugging
+
+	section.the-future
+		h2 Auto reporting cartridge contents 
+		ul
+			li find and contain lists of overrides or changesets as json
+			li send capture manifests via api to confluence
+
+	section.the-future
+		h2 Grunt-init templates: the new hotness
+		p As Opinionated Presentation Layer Lead I want to:
+		ul
+			li.fragment Predefine a suite of build, test and deploy tools
+			li.fragment Be guided by prompts to set dependencies and create package.json and initial gruntfile 
+				small 
+					em ( because typing is dumb )
+			li.fragment Be empowered to make choices in the tools we use
+
+
+section( data-background-image="app/show.jpg" )
+	h1 The End
+	hr
+	h3.the-future questions?

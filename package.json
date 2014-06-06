@@ -1,0 +1,37 @@
+{
+  "name": "PETSMT-gruntjs",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/additiveinverse/gruntjs-presentation",
+  "author": {
+    "name": "Richard Bailey",
+    "email": "additiveinverse@gmail.com",
+    "url": "additiveinverse.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/baileyr/presentation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/additiveinverse/gruntjs-presentation/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/additiveinverse/gruntjs-presentation/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.19"
+  },
+  "devDependencies": {
+    "matchdep": "~0.1.2",
+    "grunt-reveal-jade": "~0.0.3",
+    "grunt-open": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-build-gh-pages": "~0.0.4"
+  },
+  "keywords": []
+}
