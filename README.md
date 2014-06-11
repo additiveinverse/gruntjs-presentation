@@ -2,7 +2,8 @@
 # PETSMT-gruntjs
 
 The best project ever... maybe the second or third best
-
+Really it's a presentation / case study for advocating awesome workflow tools.
+There's a gruntfile for this presentation on gruntjs
 
 ## Getting Started
 Install the needed modules with: `npm install`
